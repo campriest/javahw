@@ -1,6 +1,3 @@
-
-
-
 import trip.Time;
 import trip.Flight;
 import trip.Trip;
